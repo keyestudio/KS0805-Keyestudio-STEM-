@@ -67,6 +67,8 @@ Print the ultrasonic value on the serial monitor
 
 Open the serial port monitor and select the corresponding baud rate.
 
+CoolTerm download：<https://freeware.the-meiers.org/>
+
 ![](img/cou12.png)
 
 ![](img/cou13.png)

@@ -63,6 +63,10 @@ Add code of the ultrasonic module
 
  1.15 Result
 
+CoolTerm download：<https://freeware.the-meiers.org/>
+
+![](img/cou9-1.png)
+
 Open the serial port monitor and select the corresponding baud rate.
 
 ![](img/cou9.png)
