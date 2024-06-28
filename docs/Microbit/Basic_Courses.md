@@ -1,4 +1,4 @@
-# BBC Micro:bit Projects
+# Micro:bit Basic Projects
 
 ## 1.What is Micro:bit?
 

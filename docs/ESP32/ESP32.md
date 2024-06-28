@@ -1,4 +1,4 @@
-# ESP32 Easy Coding Board Distance Detection Robot Projects
+# ESP32 Distance Detection Robot Projects
 
 ## 1.Tutorial
 

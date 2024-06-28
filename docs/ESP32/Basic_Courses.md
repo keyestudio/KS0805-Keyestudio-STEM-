@@ -1,4 +1,4 @@
-## ESP32 Easy Coding Board Basic Projects
+## ESP32 Basic Projects
 
 ### 1 Heartbeat
 

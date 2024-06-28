@@ -1,4 +1,4 @@
-# micro:bit Distance Detection Robot Projects
+# Micro:bit Distance Detection Robot Projects
 
 ## 1.Tutorial
 
