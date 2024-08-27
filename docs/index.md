@@ -302,7 +302,7 @@ Microbit
 
 <span style='color:red'>Code Download：</span>
 
-[ESP32](ESP32/Code/code.zip)
+<!--[ESP32](ESP32/Code/code.zip)-->
 
 [Microbit](Microbit/MakeCode/code.zip)
 
@@ -326,7 +326,7 @@ Do operations according to the tutorials of the two development boards.
 
 2.2 ESP32 Easy Coding Board Tutorial
 
-[ESP32](ESP32/ESP32.md)
+<!--[ESP32](ESP32/ESP32.md)-->
 
 ------
 
