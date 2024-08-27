@@ -20,7 +20,7 @@ Welcome to check out more contents from our official website:
 
 <span style='color:red'>Code Download：</span>
 
-[ESP32](ESP32/Code/code.zip)
+<!--[ESP32](ESP32/Code/code.zip)-->
 
 [Microbit](Microbit/MakeCode/code.zip)
 
